@@ -102,13 +102,13 @@ import { filter, map, mergeMap } from 'rxjs/operators';
     justify-content: space-between;
     box-sizing: border-box;
     margin: 0 auto;
-    padding: 3em;
+    padding: 3em 3em 4em;
   }
 
   .header-title {
     flex-grow: 0;
     flex-shrink: 1;
-    font-size: 8rem;
+    font-size: 6rem;
     font-family: "fields", sans-serif;
     font-weight: 900;
     letter-spacing: -1.9px;
@@ -257,7 +257,7 @@ import { filter, map, mergeMap } from 'rxjs/operators';
       z-index: 10000;
       width: 100%;
       position: relative;
-      padding: 0 rem;
+      padding-bottom: 2rem;
     }
 
     .header-title {
@@ -367,7 +367,7 @@ import { filter, map, mergeMap } from 'rxjs/operators';
       z-index: 10000;
       width: 100%;
       position: relative;
-      padding: 0.5rem 0;
+      padding: 0.5rem 0 2rem;
     }
 
     .header-title {

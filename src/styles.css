@@ -5,16 +5,9 @@
 
 
 html {
-  background-image: url('/assets/KK-Portfolio-Background-Image.webp');
+  background-image: url('assets/KK-Portfolio-Background-Image.webp');
   background-position: center;
-  background-size: cover;
+  background-size: 100vw auto;
   background-attachment: fixed;
   background-repeat: repeat;
 }
-
-/* lessen the width of the entire app so that the background image shows through on the sides
-body {
-  width: 96vw;
-  margin: 0 auto;
-}
-  */
