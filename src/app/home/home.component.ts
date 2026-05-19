@@ -35,10 +35,10 @@ import { CommonModule } from '@angular/common';
 
       <div class="home-hero-img-container">
         <!-- Static hero image -->
-        <img src="/assets/KK-Portfolio-Home-Hero-IMG-Transparent.png" alt="Hero image for Kaitlyn Kelly's Web Development Portfolio" class="home-hero-img">
+        <img src="assets/KK-Portfolio-Home-Hero-IMG-Transparent.png" alt="Hero image for Kaitlyn Kelly's Web Development Portfolio" class="home-hero-img">
 
         <!-- Animated hero image -->
-        <img src="/assets/KK-Portfolio-Home-Hero-IMG-Overlay.png" alt="Overlay image that states 'web developer' in bold font" class="home-hero-overlay-img" [@overlayEnter]>
+        <img src="assets/KK-Portfolio-Home-Hero-IMG-Overlay.png" alt="Overlay image that states 'web developer' in bold font" class="home-hero-overlay-img" [@overlayEnter]>
 
         <a routerLink='/about'><button class="home-hero-btn">Learn More.</button></a>
       </div>

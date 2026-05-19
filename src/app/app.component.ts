@@ -54,10 +54,10 @@ import { filter, map, mergeMap } from 'rxjs/operators';
           <div class="footer-column">
             <h3>Ready to Work Together?</h3>
             <div class="footer-contact-row">
-              <a href="tel:+14027096360"><img src="/assets/KK-Portfolio-PhoneIcon.png" alt="Phone Icon" class="footer-img">&nbsp;&nbsp;402.709.6360</a>
+              <a href="tel:+14027096360"><img src="assets/KK-Portfolio-PhoneIcon.png" alt="Phone Icon" class="footer-img">&nbsp;&nbsp;402.709.6360</a>
             </div>
             <div class="footer-contact-row">
-              <a href="mailto:ecommbykaitlyn@gmail.com.com"><img src="/assets/KK-Portfolio-EmailIcon.png" alt="Email Icon" class="footer-img">&nbsp;&nbsp;eCommByKaitlyn&#64;gmail.com</a>
+              <a href="mailto:ecommbykaitlyn@gmail.com.com"><img src="assets/KK-Portfolio-EmailIcon.png" alt="Email Icon" class="footer-img">&nbsp;&nbsp;eCommByKaitlyn&#64;gmail.com</a>
             </div>
           </div>
 
