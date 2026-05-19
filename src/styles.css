@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital,wght@0,100..900;1,100..900&family=Parkinsans:wght@300..800&display=swap');
+
+@import url("https://use.typekit.net/rmv1lvt.css");
+
+
+html {
+  background-image: url('/assets/KK-Portfolio-Background-Image.webp');
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: repeat;
+}
+
+/* lessen the width of the entire app so that the background image shows through on the sides
+body {
+  width: 96vw;
+  margin: 0 auto;
+}
+  */
