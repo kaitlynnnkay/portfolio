@@ -235,8 +235,6 @@ import { CommonModule } from '@angular/common';
   .home-hero-img-container {
     width: 100%;
     position: relative;
-    /* removed with background img test
-    margin-top: 10px; */
   }
 
   .home-hero-img {
@@ -290,7 +288,7 @@ import { CommonModule } from '@angular/common';
     padding-top: 2em;
     align-items: flex-start;
     height: 55vh;
-    background-color: #af3b63cc; */
+    background-color: #af3b63cc;
   }
 
   .home-sections-options {
@@ -511,6 +509,7 @@ import { CommonModule } from '@angular/common';
       letter-spacing: -0.5px;
       font-size: 1.1rem;
     }
+  }
 
     /* MOBILE STYLES */
     @media (max-width: 768px) {

@@ -239,6 +239,7 @@ import { CommonModule } from '@angular/common';
       gap: 1.2em;
       padding-bottom: 4em;
       }
+    }
 
 
     /* MOBILE STYLES */
@@ -261,6 +262,7 @@ import { CommonModule } from '@angular/common';
       gap: 2em;
       padding-bottom: 4em;
       }
+    }
   `
 })
 export class PortfolioComponent {
