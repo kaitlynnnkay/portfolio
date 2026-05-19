@@ -30,7 +30,10 @@
               "src/styles.css"
             ],
             "scripts": [],
-            "baseHref": "/portfolio/"
+            "baseHref": "/portfolio/",
+            "stylePreprocessorOptions" : {
+              "includePaths": ["src"]
+            }
           },
           "configurations": {
             "production": {
